@@ -1,10 +1,14 @@
+<p align="center">
+  <img src="./assets/raven-banner.png" alt="Raven — Guardrails before you ship." width="800"/>
+</p>
+
 # Raven Action
 
-> Enterprise AI coding discipline — GitHub Action implementation.
+> GitHub Action implementation of the Raven AI coding discipline engine.
 > Part of the [Raven platform](https://github.com/giggsoinc/raven-core). MIT License.
 > Built by [Giggso Inc](https://github.com/giggsoinc).
 
-*Platform-agnostic enforcement. Works with Claude Code, OpenAI Codex, or any AI coding agent.*
+*Guardrails before you ship.*
 
 ---
 
